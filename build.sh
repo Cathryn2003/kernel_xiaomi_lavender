@@ -8,7 +8,7 @@
 KERNEL_DIR="$(pwd)"
 
 # Zip Name
-ZIPNAME="Nexus-EAS"
+ZIPNAME="Lineage-20.0"
 
 # Specify compiler ( eva , azure , proton , arter , aosp & nexus )
 COMPILER=nexus
